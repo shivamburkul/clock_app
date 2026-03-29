@@ -1,16 +1,24 @@
-# clock_app
+# 🕐 Clock App UI — Flutter
 
-A new Flutter project.
+A Clock app UI inspired by the Google's Material 3 Exclusive Design clock interface,
+built while learning Flutter UI design.
 
-## Getting Started
+## Current Status
+- 🎨 Clock UI completed — inspired by Moto Edge 50 Fusion
+- 🔘 Buttons and layout designed
+- ⏳ Timer / Alarm / Stopwatch logic coming soon
 
-This project is a starting point for a Flutter application.
+## What I Learned
+- Flutter UI layout and design
+- Recreating modern Android UI in Flutter
+- Working with buttons and screen structure
 
-A few resources to get you started if this is your first Flutter project:
+## Coming Soon
+- Working clock with real time
+- Alarm functionality
+- Stopwatch and Timer logic
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Built With
+- Flutter
+- Dart
+- Android Studio
